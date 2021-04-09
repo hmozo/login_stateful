@@ -5,11 +5,10 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Log me in3!',
+      title: 'Log me in4!',
       home: Scaffold(
         body: LoginScreen(),
       ),
     );
-    throw UnimplementedError();
   }
 }
